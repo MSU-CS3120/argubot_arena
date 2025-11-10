@@ -30,7 +30,7 @@
 8. Judge Debates: Your prompts, and those of the person assigned the opposite position for your debate topic, will be used to have two LLMs debate one another in class (using text-to-speech), and you will judge which LLM is the winner of the debate. 
 
 
-Assignment Rubric Criteria
+### Assignment Rubric Criteria
 
 * (40%) Role Consistency: LLM stays in character and consistently argues for the viewpoint/position assigned
 
@@ -41,7 +41,7 @@ Assignment Rubric Criteria
 * (10%) Judging and Reflection: A written evaluation assessing your LLM’s performance and voting on the winning LLM in the debate
 
 
-Example Debate Topics
+### Example Debate Topics
 
 * Should AI ever make life-and-death decisions? (related: autonomous weapons, healthcare triage systems, etc.)
 * Can AI be truly unbiased if it is trained on biased data? (related: Imagenet, Social media data)
